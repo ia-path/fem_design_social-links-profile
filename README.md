@@ -1,6 +1,6 @@
-# Frontend Mentor - QR Code Component Solution
+# Frontend Mentor - Social Links Profile Solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
 ## Table of contents
 
@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](assets/images/qr-code-component-screenshot.png)
+![Screenshot](assets/images/social-links-profile-screenshot.png)
 
 ### Links
 
-- [Solution URL](https://github.com/ia-path/fem_design_qr-code-component)
-- [Live Site URL](https://ia-path.github.io/fem_design_qr-code-component/)
+- [Solution URL](https://github.com/ia-path/fem_design_social-links-profile)
+- [Live Site URL](https://ia-path.github.io/fem_design_social-links-profile/)
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-- I used AI for the first time.
+- Use the focus property.
 
 ### Continued development
 
@@ -47,7 +47,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- NIL.
+- Chat GPT.
+- Copilot
 
 ### AI Collaboration
 
